@@ -18,7 +18,7 @@ I'm a final-year Electrical Engineering student at UET Lahore, specializing in M
 
 **🔬 Current Research Focus:**
 - 🧠 State Space Models (SSMs) for multimodal biomedical signal classification — *manuscript in preparation*
-- ⚡ Edge AI & real-time object detection for FPGA deployment @ SUPARCO RESOLVE Lab
+- ⚡ Edge AI & real-time object detection for FPGA deployment 
 - 🌐 Multimodal AI — bridging vision, signal, and language
   
 ---
