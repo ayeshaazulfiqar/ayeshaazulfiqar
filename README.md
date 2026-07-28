@@ -12,14 +12,14 @@
 
 ### 🧬 About Me
 
-**Turning signals into intelligence — one model at a time.**
+**Turning signals into intelligence — One model at a time.**
 
 I'm a final-year Electrical Engineering student at UET Lahore, specializing in Machine Learning and Deep Learning with a focus on biomedical signal processing and edge AI. I work at the intersection of DSP and ML, building systems that are not just accurate, but deployable in the real world.
 
 **🔬 Current Research Focus:**
-- 🧠 State Space Models (SSMs) for multimodal biomedical signal classification — *manuscript in preparation*
+- 🧠 State Space Models (SSMs) for multimodal biomedical signal classification *manuscript in preparation*
 - ⚡ Edge AI & real-time object detection for FPGA deployment 
-- 🌐 Multimodal AI — bridging vision, signal, and language
+- 🌐 Multimodal AI: bridging vision, signal, and language
   
 ---
 
@@ -40,9 +40,15 @@ I'm a final-year Electrical Engineering student at UET Lahore, specializing in M
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
+
+
 
 ---
 
