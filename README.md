@@ -4,8 +4,6 @@
 
 <br/>
 
-**Electrical Engineering Undergraduate · UET Lahore**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFD3A5)](https://linkedin.com/in/ayeshaazulfiqar7)
 [![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FFD3A5)](mailto:ayeshaazulfiqar07@gmail.com)
 <br/>
