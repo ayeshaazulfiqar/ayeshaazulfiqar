@@ -1,81 +1,117 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD3A5&height=200&section=header&text=Ayesha%20Zulfiqar&fontSize=46&fontColor=1A1A1A&fontAlignY=38&desc=Machine%20Learning%20Researcher%20%7C%20AI%20Safety%20and%20Evaluation&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD3A5&height=190&section=header&text=Ayesha%20Zulfiqar&fontSize=48&fontColor=1A1A1A&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Developer&descSize=18&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8833A&center=true&vCenter=true&width=650&lines=BSc+Electrical+Engineering+%40+UET+Lahore;AI+Safety+%26+Evaluation+of+LLM+Agents;State+Space+Models+%26+Sequence+Modeling;Edge+AI+%26+Computer+Vision" alt="Typing SVG" />
+<br/>
+
+**Electrical Engineering Undergraduate · UET Lahore**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=FFD3A5)](https://linkedin.com/in/ayeshaazulfiqar7)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FFD3A5)](https://github.com/ayeshaazulfiqar)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=FFD3A5)](mailto:ayeshaazulfiqar07@gmail.com)
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1800&color=E8833A&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Machine+Learning+%26+Deep+Learning;Applied+AI+%26+Computer+Vision;Exploring+AI+Safety+%26+Sequence+Models" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
+---
 
-### About
+## About Me
 
-I am a final-year Electrical Engineering student at UET Lahore working in machine learning research. My current focus is AI safety and evaluation: how LLM agents fail silently, and how deterministic checks and reproducible evaluation can catch those failures. I also work on state space models for sequence modeling.
+I'm a final-year Electrical Engineering student at **UET Lahore**, passionate about building intelligent systems using machine learning, deep learning, and artificial intelligence.
 
-I care about careful experimental design: pre-registered gates, honest reporting of limitations, and results that can be reproduced from stored outputs without re-running the models.
+My experience spans computer vision, multimodal AI, LLM-based applications, and sequence modeling. I enjoy working across the ML development lifecycle, from data preprocessing and model development to evaluation and deployment.
 
-**Research interests**
-- **AI safety and evaluation:** reliability and verification of tool-using LLM agents, adversarial testing
-- **Sequence modeling:** selective state space models (Mamba) for long-range temporal dependencies
+I'm also interested in AI safety, LLM agent reliability, and advanced sequence modeling, with a focus on bridging research and real-world applications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
+## Technical Skills
 
-### Publication
+**Programming & Data Science**
+
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=FFD3A5)
+![NumPy](https://img.shields.io/badge/NumPy-1A1A1A?style=flat-square&logo=numpy&logoColor=FFD3A5)
+![Pandas](https://img.shields.io/badge/Pandas-1A1A1A?style=flat-square&logo=pandas&logoColor=FFD3A5)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1A1A1A?style=flat-square&logo=scikitlearn&logoColor=FFD3A5)
+
+**Machine Learning & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1A1A?style=flat-square&logo=pytorch&logoColor=FFD3A5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1A1A?style=flat-square&logo=tensorflow&logoColor=FFD3A5)
+![Keras](https://img.shields.io/badge/Keras-1A1A1A?style=flat-square&logo=keras&logoColor=FFD3A5)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1A1A?style=flat-square&logo=opencv&logoColor=FFD3A5)
+![CUDA](https://img.shields.io/badge/CUDA-1A1A1A?style=flat-square&logo=nvidia&logoColor=FFD3A5)
+
+**AI Development & Deployment**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-1A1A1A?style=flat-square&logo=googlegemini&logoColor=FFD3A5)
+![Streamlit](https://img.shields.io/badge/Streamlit-1A1A1A?style=flat-square&logo=streamlit&logoColor=FFD3A5)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A1A1A?style=flat-square&logo=jupyter&logoColor=FFD3A5)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=FFD3A5)
+![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FFD3A5)
+![GitLab](https://img.shields.io/badge/GitLab-1A1A1A?style=flat-square&logo=gitlab&logoColor=FFD3A5)
+
+---
+
+## Featured Projects
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| [**Read-Back Verification in LLM Agent Pipelines**](https://github.com/ayeshaazulfiqar/Storage_verification) | Evaluating deterministic verification in multi-step LLM agent pipelines. | Python, DeepSeek, Gemma |
+| [**Scam Shield**](https://github.com/ayeshaazulfiqar/Scam_Shield) | Multilingual AI-powered scam detection for SMS, WhatsApp, and screenshots. | Python, Gemini, Streamlit |
+| [**Gauntlet**](https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/43672348/showcase) | Multi-agent code validation and adversarial testing pipeline. | GitLab Duo, Python, CI/CD |
+| [**AI Allergen Detection**](https://github.com/ayeshaazulfiqar/AI_based_food_allergen_detection_using_vlms) | Multimodal food allergen risk assessment using ML and vision models. | Python, CNN, VLMs |
+
+---
+
+## Research & Publications
 
 **MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG**
-Nov 2026. [Read on arXiv](https://arxiv.org/abs/2611.12026)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
+<sub>November 2026 · Preprint</sub>
 
-### Featured Projects
+[Read on arXiv](https://arxiv.org/abs/2611.12026)
 
-| Project | Summary | Stack |
-|-----|---|---|
-| [**Read-Back Verification in LLM Agent Pipelines**](https://github.com/ayeshaazulfiqar/REPO_NAME) | Study of silent failures in multi-step LLM agent pipelines. Read-back cut silently wrong orders from 47.2% to 0.1% under storage faults; a deterministic re-check removed the rest. Fully reproducible. | Python, DeepSeek, Gemma |
-| [**Scam Shield**](https://github.com/ayeshaazulfiqar/Scam_Shield) ([live demo](https://scamshieldapp-gw873grbsmcqdnx8p7qhet.streamlit.app/)) | LLM agent that flags scam SMS, WhatsApp messages and screenshots in English, Roman Urdu and Urdu. 100% accuracy on a 50-message test set. | Python, Gemini API, Regex |
-| [**Gauntlet**](https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/43672348/showcase) | Multi-agent GitLab pipeline where a Builder fixes bugs and a Breaker writes adversarial tests. Caught 4 of 4 seeded bugs, versus 0 of 4 for starter tests. | GitLab Duo, CI/CD, Python |
-| [**AI Allergen Detection**](https://github.com/ayeshaazulfiqar/AI_based_food_allergen_detection_using_vlms) | Multi-label allergen risk detection from food images and ingredient text, using an ANN, MobileNetV2 and Gemini Vision (0.74 Macro F1). | Python, CNN, Streamlit |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
+## Hackathons & Achievements
 
-### Hackathons
+- **Swarm Alignment Hackathon 2026** — Apart Research × AIAF × AE Studio
+- **NYLP × AI Hackathon 2026** — Top 25, Scam Shield
+- **GitLab AI Hackathon: Life After Code** — Gauntlet
 
-- **Swarm Alignment Hackathon** (Apart Research x AIAF x AE Studio), Nov 2026: Read-Back Verification in LLM Agent Pipelines
-- **NYLP x AI Hackathon 2026: Building AI Products**, Top 25: Scam Shield
-- **GitLab AI Hackathon: Life After Code**: Gauntlet
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
-
-### Technical Skills
+## GitHub Statistics
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayeshaazulfiqar&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=FFD3A5&icon_color=E8833A&text_color=FFFFFF&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazulfiqar&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=FFD3A5&text_color=FFFFFF" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ayeshaazulfiqar&hide_border=true&background=1A1A1A&ring=FFD3A5&fire=E8833A&currStreakLabel=FFD3A5&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
+---
 
-### Contact
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayeshaazulfiqar7)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshaazulfiqar07@gmail.com)
+Interested in machine learning, applied AI, research collaborations, and building intelligent systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFD3A5)](https://linkedin.com/in/ayeshaazulfiqar7)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FFD3A5)](mailto:ayeshaazulfiqar07@gmail.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD3A5&height=100&section=footer" width="100%" />
 
