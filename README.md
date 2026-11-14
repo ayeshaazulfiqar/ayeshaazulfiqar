@@ -7,9 +7,7 @@
 **Electrical Engineering Undergraduate · UET Lahore**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFD3A5)](https://linkedin.com/in/ayeshaazulfiqar7)
-[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FFD3A5)](https://github.com/ayeshaazulfiqar)
 [![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FFD3A5)](mailto:ayeshaazulfiqar07@gmail.com)
-
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1800&color=E8833A&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Machine+Learning+%26+Deep+Learning;Applied+AI+%26+Computer+Vision;Exploring+AI+Safety+%26+Sequence+Models" alt="Typing SVG" />
@@ -72,9 +70,7 @@ I'm also interested in AI safety, LLM agent reliability, and advanced sequence m
 
 ## Research & Publications
 
-**MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG**
-
-November 2026 · Preprint
+**MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG, Nov 2026**
 
 [Read on arXiv](https://arxiv.org/abs/2611.12026)
 
@@ -88,15 +84,7 @@ November 2026 · Preprint
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
 
-## GitHub Statistics
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayeshaazulfiqar&hide_border=true&background=1A1A1A&ring=FFD3A5&fire=E8833A&currStreakLabel=FFD3A5&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="65%" alt="GitHub Contribution Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3A5&height=3" width="100%" />
 
 ## Let's Connect
 
